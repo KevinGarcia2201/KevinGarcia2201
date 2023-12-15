@@ -1,4 +1,4 @@
-- 👋 hola soy kevin garcia, desarrollador con conocimiento basico en html,css,php,angular y react native
+- 👋 hola soy kevin garcia, desarrollador con conocimiento basico en html,css,angular y react native
 - estoy interesado en comensar a adquirir mayor conocimiento de la mano de empresas en las que se me de la oprtunidad de mostrar mis habilidades y asi mismo pulir cada una de ellas 
 - actualmente estoy por comenzar un curso donde desarrollare habilidades de siberseguridad y manejo profesional de inteligencia artificial. ademas, reforzar mi conocimento en bases de datos e ingles
 - 🌱  I’m looking to collaborate on 
